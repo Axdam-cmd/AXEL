@@ -1,0 +1,51 @@
+*{
+    background-color: azure;
+    color: blueviolet;
+}
+
+h1 {
+    color: darkorchid;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+
+h2 {
+    color: darkorchid;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+
+p {
+    color: darkorchid;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+
+img {
+    height: 500px;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+}
+#Potenciometro {
+    
+    font-size: large;
+    background-color: bisque;
+    border-radius: 6px;
+    
+}
+
+#Sensorpir {
+    
+    font-size: large;
+    background-color: bisque;
+    border-radius: 6px;
+}
+
+.resaltado{
+
+color: rgb(101, 61, 139);
+
+}
