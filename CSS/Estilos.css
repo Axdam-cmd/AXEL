@@ -49,3 +49,9 @@ div{
 color: rgb(101, 61, 139);
 
 }
+#ARDUINOS {
+    
+    font-size: large;
+    background-color: bisque;
+    border-radius: 6px;
+}
